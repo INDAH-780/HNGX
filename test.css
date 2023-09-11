@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+body{
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    font-family: 'Montserrat', sans-serif;
+}
+#currentUTCTime {
+    font-size: 150px;
+    
+    font-weight: 500;
+   
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
